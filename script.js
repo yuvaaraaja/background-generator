@@ -1,6 +1,7 @@
 
 var _ = require('lodash');
 
+console.log("Experiment print to add and test Loadash library")
 console.log(_);
 
 var array = [1,2,3,4,5,6,7,8];
